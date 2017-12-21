@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Project_1\_Script\Move.cs">
+    <Files>
+      <File FileName="Assets\Project_1\_Script\Move.cs" Line="16" Column="17" />
+      <File FileName="Assets\Project_1\_Script\SmoothFollow.cs" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="c:\Unity\projects\Interface\Assets\CameraConfinment\Scripts\ConfineToCamera.cs" line="327" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
